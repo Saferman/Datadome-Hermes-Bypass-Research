@@ -10,7 +10,7 @@
 
 ### 爱马仕风控分析
 
-经过作者第一季度的跟踪研究，hermes风控团队算是有点技术实力，他们风控策略是在动态调整的，一般几周就会更新策略，所以如果要在https://rendezvousparis.hermes.com/client/welcome活动主页进行预约，需要技术人员定期维护相关的程序，本仓库的程序实测在2023.04.10前都是有效的。
+经过作者第一季度的跟踪研究，hermes风控团队算是有点技术实力，他们风控策略是在动态调整的，一般几周就会更新策略，所以如果要在[https://rendezvousparis.hermes.com/client/welcome](https://rendezvousparis.hermes.com/client/welcome) 活动主页进行预约，需要技术人员定期维护相关的程序，本仓库的程序实测在2023.04.10前都是有效的。
 
 该活动中奖与否很大程度取决于你的预约成功的账户数量，因为抽奖是概率制，越多账号预约上雨而已中。
 
@@ -51,13 +51,13 @@ datadome主要通过tag.js在客户端检测并且提取了指纹交给后台检
 
 > 另外，如果google验证码又出现了的话，可以将验证码的打码专门接入我的浏览器运行的API接口处理，其他环节依旧采用协议请求。
 
-### 一些可分享的程序
+### 一些可对外的成果：
 
-- 解混淆的datadome tag.js version 4.6.16  600元
-- 协议版本请求welcome和register的demo 1000元
-- 浏览器绕过datadome和google验证码的打包程序API或者源码 2000元
-- python3.8通过requests + threading等库实现的完整协议流程  20000元
-- 邮箱浏览器确认链接自动提取和访问（浏览器版本）800元
+- 解混淆的datadome tag.js version 4.6.16  
+- 协议版本请求welcome和register的demo 
+- 浏览器绕过datadome和google验证码的打包程序API或者源码 
+- python3.8通过requests + threading等库实现的完整协议流程  
+- 邮箱浏览器确认链接自动提取和访问（浏览器版本）
 - 此外点击邮箱的确认链接已经通过协议实现，但是因为官方要触发滑块验证码，暂时没有去逆向，如果有需要欢迎告知（需要预付费一部分）
 - 其他需要帮忙解决的技术bug，不讨论datadome技术，但是如果你想交流安全基础技术，随时欢迎~~
 
