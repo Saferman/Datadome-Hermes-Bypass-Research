@@ -10,7 +10,7 @@
 
 ### 爱马仕风控分析
 
-经过作者第一季度的跟踪研究，hermes风控团队算是有点技术实力，他们风控策略是在动态调整的，一般几周就会更新策略，所以如果要在[https://rendezvousparis.hermes.com/client/welcome](https://rendezvousparis.hermes.com/client/welcome) 活动主页进行预约，需要技术人员定期维护相关的程序，本仓库的程序实测在2023.04.10前都是有效的。
+经过作者第一季度的跟踪研究，hermes风控团队算是有点技术实力，他们风控策略是在动态调整的，一般几周就会更新策略，所以如果要在[https://rendezvousparis.hermes.com/client/welcome](https://rendezvousparis.hermes.com/client/welcome) 活动主页进行预约，需要技术人员定期维护相关的程序，本仓库的程序实测在2023.04.20发布日期的前后一段时间内应该都是有效的。
 
 该活动中奖与否很大程度取决于你的预约成功的账户数量，因为抽奖是概率制，越多账号预约上雨而已中。
 
