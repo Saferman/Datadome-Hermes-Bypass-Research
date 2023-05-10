@@ -53,11 +53,11 @@ datadome主要通过tag.js在客户端检测并且提取了指纹交给后台检
 
 ### 一些可对外的成果：
 
-- 解混淆的datadome tag.js version 4.6.16  
-- 协议版本请求welcome和register的demo 
-- 浏览器绕过datadome和google验证码的打包程序API或者源码 
-- python3.8通过requests + threading等库实现的完整协议流程  
-- 邮箱浏览器确认链接自动提取和访问（浏览器版本）
+- 解混淆的datadome tag.js version 4.6.16  （截止04.22官方用的是4.7.4，差别不是很大，需要4.7.4版本的请告知）	600元
+- 协议版本请求welcome和register的demo    1000元
+- 浏览器绕过datadome和google验证码的打包程序API或者源码   2000元
+- python3.8通过requests + threading等库实现的完整协议流程    20000元
+- 邮箱浏览器确认链接自动提取和访问（浏览器版本） 800元
 - 此外点击邮箱的确认链接已经通过协议实现，但是因为官方要触发滑块验证码，暂时没有去逆向，如果有需要欢迎告知（需要预付费一部分）
 - 其他需要帮忙解决的技术bug，不讨论datadome技术，但是如果你想交流安全基础技术，随时欢迎~~
 
